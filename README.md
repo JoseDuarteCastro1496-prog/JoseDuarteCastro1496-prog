@@ -17,7 +17,7 @@ Soy un profesional híbrido con una **Licenciatura en Dirección de Empresas** y
 ### **Gestión & Infraestructura**
 - **Metodologías Ágiles:** Scrum (Certified), Kanban.
 - **Infraestructura:** Google Cloud Fundamentals, CCNA 1 (Networking), IT Essentials (Hardware/Software).
-- **Administración:** .
+- **Administración:*Analisis de datos: Python, excel* .
 
 ---
 
