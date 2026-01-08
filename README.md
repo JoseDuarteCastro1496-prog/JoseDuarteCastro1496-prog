@@ -1,6 +1,6 @@
-# 🚀 Hola, soy José Ángel Duarte Castro
+# Hola, soy José Ángel Duarte Castro
 
-### **Licenciado en Administración | Desarrollador Full Stack (Laravel, Django, React)**
+### Licenciado en Administración | Desarrollador Full Stack (Laravel, Django, React)
 📍 Ubicación:** Liberia, Guanacaste, Costa Rica 
 
 Soy un profesional híbrido con una **Licenciatura en Dirección de Empresas** y formación avanzada en **Informática Empresarial** por la Universidad de Costa Rica[cite: 43, 67, 65]. [cite_start]Mi perfil combina la visión estratégica de negocios con la capacidad técnica para crear soluciones de software escalables y eficientes.
