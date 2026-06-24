@@ -1,7 +1,7 @@
 # Hola, soy José Ángel Duarte Castro
 
 ### Licenciado en Administración | Desarrollador 
-📍 Ubicación:** Liberia, Guanacaste, Costa Rica 
+Ubicación:** Liberia, Guanacaste, Costa Rica 
 
 Soy un profesional híbrido con una **Licenciatura en Dirección de Empresas** y formación avanzada en **Informática Empresarial** por la Universidad de Costa Rica. Mi perfil combina la visión estratégica de negocios con la capacidad técnica para crear soluciones de software escalables y eficientes.
 
@@ -45,7 +45,7 @@ Actualmente me desempeño como **Desarrollador Full Stack y Analista de Sistemas
 
 - 📧 **Correo:** [jose.duartecastro1496@gmail.com](mailto:jose.duartecastro1496@gmail.com) 
 - 📞 **Teléfono:** +506) 8351 9576 
-- 💼 **LinkedIn:** www.linkedin.com/in/jose-angel-duarte-castro-0b9539380
+- 💼 **LinkedIn:** www.linkedin.com/in/jose-angel-duarte-castro-datos
 
 
 ---
